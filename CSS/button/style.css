@@ -1,0 +1,25 @@
+.button {
+    border-color: #149c9e;
+    background-color: #f5f5f5;
+    padding: 3px 50px;
+    color: rgba(58,171,172,255);
+    font-size: 20px;
+    border-radius: 50px;
+}
+.button2 {
+    background-color: #00d1b2;
+    padding: 10px 15px;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 100%;
+    border: 0ch;
+}
+.button3 {
+        background-color: #3d55e2;
+        color: white;
+        padding: 10px 50px;
+        font-size: 16px;
+        margin: 4px 2px;
+        border-color: black;
+        box-shadow: 10px 5px 5px black
+}
